@@ -1,4 +1,4 @@
 function hello(){}
-is:wq:
+is:wq:local:
 hello()
-??
+??local
